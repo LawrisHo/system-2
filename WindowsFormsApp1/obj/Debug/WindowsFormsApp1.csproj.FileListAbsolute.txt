@@ -1,0 +1,182 @@
+C:\Users\user\Documents\Sem 3\Software Process\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\user\Documents\Sem 3\Software Process\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\Documents\Sem 3\Software Process\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Documents\Sem 3\Software Process\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Documents\Sem 3\Software Process\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Sem 3\Software Process\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Documents\Sem 3\Software Process\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Documents\Sem 3\Software Process\Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Documents\Sem 3\Software Process\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Documents\Sem 3\Software Process\Project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Files\CS_Program\HLM\WindowsFormsApp1\bin\Debug\PizzaMenu.mdf
+C:\Files\CS_Program\HLM\WindowsFormsApp1\bin\Debug\PizzaMenu_log.ldf
+C:\Files\CS_Program\HLM\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Files\CS_Program\HLM\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Files\CS_Program\HLM\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Files\CS_Program\HLM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Files\CS_Program\HLM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Files\CS_Program\HLM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Files\CS_Program\HLM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Files\CS_Program\HLM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Files\CS_Program\HLM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Files\CS_Program\HLM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Files\CS_Program\HLM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\user\Downloads\HLM\WindowsFormsApp1\bin\Debug\PizzaMenu.mdf
+C:\Users\user\Downloads\HLM\WindowsFormsApp1\bin\Debug\PizzaMenu_log.ldf
+C:\Users\user\Downloads\HLM\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Downloads\HLM\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Downloads\HLM\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Downloads\HLM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\user\Downloads\HLM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\Downloads\HLM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\user\Downloads\HLM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Downloads\HLM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Downloads\HLM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\HLM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Downloads\HLM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Files\CS_Program\HLM_2\WindowsFormsApp1\bin\Debug\PizzaMenu.mdf
+C:\Files\CS_Program\HLM_2\WindowsFormsApp1\bin\Debug\PizzaMenu_log.ldf
+C:\Files\CS_Program\HLM_2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Files\CS_Program\HLM_2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Files\CS_Program\HLM_2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Files\CS_Program\HLM_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Files\CS_Program\HLM_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Files\CS_Program\HLM_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Files\CS_Program\HLM_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Files\CS_Program\HLM_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Files\CS_Program\HLM_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Files\CS_Program\HLM_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Files\CS_Program\HLM_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Downloads\HLM_2\WindowsFormsApp1\bin\Debug\PizzaMenu.mdf
+C:\Users\user\Downloads\HLM_2\WindowsFormsApp1\bin\Debug\PizzaMenu_log.ldf
+C:\Users\user\Downloads\HLM_2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Downloads\HLM_2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Downloads\HLM_2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Downloads\HLM_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\user\Downloads\HLM_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\Downloads\HLM_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\user\Downloads\HLM_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Downloads\HLM_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Downloads\HLM_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\HLM_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Downloads\HLM_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Documents\Sem 3\Software Process\Project\HLM_2 大二哥的改良\WindowsFormsApp1\bin\Debug\PizzaMenu.mdf
+C:\Users\user\Documents\Sem 3\Software Process\Project\HLM_2 大二哥的改良\WindowsFormsApp1\bin\Debug\PizzaMenu_log.ldf
+C:\Users\user\Documents\Sem 3\Software Process\Project\HLM_2 大二哥的改良\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Documents\Sem 3\Software Process\Project\HLM_2 大二哥的改良\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Documents\Sem 3\Software Process\Project\HLM_2 大二哥的改良\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Documents\Sem 3\Software Process\Project\HLM_2 大二哥的改良\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\user\Documents\Sem 3\Software Process\Project\HLM_2 大二哥的改良\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\Documents\Sem 3\Software Process\Project\HLM_2 大二哥的改良\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\user\Documents\Sem 3\Software Process\Project\HLM_2 大二哥的改良\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Documents\Sem 3\Software Process\Project\HLM_2 大二哥的改良\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Documents\Sem 3\Software Process\Project\HLM_2 大二哥的改良\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Sem 3\Software Process\Project\HLM_2 大二哥的改良\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Documents\Sem 3\Software Process\Project\HLM_2 大二哥的改良\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Files\CS_Program\HLM_3\WindowsFormsApp1\bin\Debug\PizzaMenu.mdf
+C:\Files\CS_Program\HLM_3\WindowsFormsApp1\bin\Debug\PizzaMenu_log.ldf
+C:\Files\CS_Program\HLM_3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Files\CS_Program\HLM_3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Files\CS_Program\HLM_3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Files\CS_Program\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Files\CS_Program\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Files\CS_Program\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Files\CS_Program\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Files\CS_Program\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Files\CS_Program\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Files\CS_Program\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Files\CS_Program\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Downloads\HLM_3\WindowsFormsApp1\bin\Debug\PizzaMenu.mdf
+C:\Users\user\Downloads\HLM_3\WindowsFormsApp1\bin\Debug\PizzaMenu_log.ldf
+C:\Users\user\Downloads\HLM_3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Downloads\HLM_3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Downloads\HLM_3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Downloads\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\user\Downloads\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\Downloads\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\user\Downloads\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Downloads\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Downloads\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Downloads\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Documents\Sem 3\Software Process\Project\HLM_3 大二哥的改良\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\user\Documents\Sem 3\Software Process\Project\HLM_3 大二哥的改良\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\Documents\Sem 3\Software Process\Project\HLM_3 大二哥的改良\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\user\Documents\Sem 3\Software Process\Project\HLM_3 大二哥的改良\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Documents\Sem 3\Software Process\Project\HLM_3 大二哥的改良\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Documents\Sem 3\Software Process\Project\HLM_3 大二哥的改良\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Sem 3\Software Process\Project\HLM_3 大二哥的改良\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Documents\Sem 3\Software Process\Project\HLM_3 大二哥的改良\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Documents\Sem 3\Software Process\Project\HLM_3 大二哥的改良\WindowsFormsApp1\bin\Debug\PizzaMenu.mdf
+C:\Users\user\Documents\Sem 3\Software Process\Project\HLM_3 大二哥的改良\WindowsFormsApp1\bin\Debug\PizzaMenu_log.ldf
+C:\Users\user\Documents\Sem 3\Software Process\Project\HLM_3 大二哥的改良\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Documents\Sem 3\Software Process\Project\HLM_3 大二哥的改良\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Documents\Sem 3\Software Process\Project\HLM_3 大二哥的改良\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Documents\Sem 3\Software Process\Food Ordering System\HLM_3 大二哥的改良\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\user\Documents\Sem 3\Software Process\Food Ordering System\HLM_3 大二哥的改良\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\Documents\Sem 3\Software Process\Food Ordering System\HLM_3 大二哥的改良\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\user\Documents\Sem 3\Software Process\Food Ordering System\HLM_3 大二哥的改良\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Documents\Sem 3\Software Process\Food Ordering System\HLM_3 大二哥的改良\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Documents\Sem 3\Software Process\Food Ordering System\HLM_3 大二哥的改良\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Sem 3\Software Process\Food Ordering System\HLM_3 大二哥的改良\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Documents\Sem 3\Software Process\Food Ordering System\HLM_3 大二哥的改良\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Documents\Sem 3\Software Process\Food Ordering System\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\user\Documents\Sem 3\Software Process\Food Ordering System\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\Documents\Sem 3\Software Process\Food Ordering System\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\user\Documents\Sem 3\Software Process\Food Ordering System\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Documents\Sem 3\Software Process\Food Ordering System\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Documents\Sem 3\Software Process\Food Ordering System\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Sem 3\Software Process\Food Ordering System\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Documents\Sem 3\Software Process\Food Ordering System\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_3\WindowsFormsApp1\bin\Debug\PizzaMenu.mdf
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_3\WindowsFormsApp1\bin\Debug\PizzaMenu_log.ldf
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_3_大二哥的改良(不能放空格)\WindowsFormsApp1\bin\Debug\PizzaMenu.mdf
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_3_大二哥的改良(不能放空格)\WindowsFormsApp1\bin\Debug\PizzaMenu_log.ldf
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_3_大二哥的改良(不能放空格)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_3_大二哥的改良(不能放空格)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_3_大二哥的改良(不能放空格)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_3_大二哥的改良(不能放空格)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_3_大二哥的改良(不能放空格)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_3_大二哥的改良(不能放空格)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_3_大二哥的改良(不能放空格)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_3_大二哥的改良(不能放空格)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_3_大二哥的改良(不能放空格)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_3_大二哥的改良(不能放空格)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_3_大二哥的改良(不能放空格)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Files\CS_Program\HLM_6\WindowsFormsApp1\bin\Debug\PizzaMenu.mdf
+C:\Files\CS_Program\HLM_6\WindowsFormsApp1\bin\Debug\PizzaMenu_log.ldf
+C:\Files\CS_Program\HLM_6\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Files\CS_Program\HLM_6\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Files\CS_Program\HLM_6\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Files\CS_Program\HLM_6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Files\CS_Program\HLM_6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Files\CS_Program\HLM_6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Files\CS_Program\HLM_6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Files\CS_Program\HLM_6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Files\CS_Program\HLM_6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Files\CS_Program\HLM_6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Files\CS_Program\HLM_6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_6\WindowsFormsApp1\bin\Debug\PizzaMenu.mdf
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_6\WindowsFormsApp1\bin\Debug\PizzaMenu_log.ldf
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_6\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_6\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_6\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Documents\Sem_3\Software_Process\FoodOrderingSystem\HLM_6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
